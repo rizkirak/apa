@@ -1,0 +1,8 @@
+Buatlah query untuk menampilkan seluruh data mahasiswa beserta jumlah kelas yang sudah diambil. Kolom yang harus ditampilkan adalah sebagai berikut,
+Nama Kolom
+Keterangan
+nim
+Ambil atribut dari tabel mahasiswa
+nama
+jumlah_kelas
+Hitung jumlah kelas yang sudah diambil oleh mahasiswa tersebut
