@@ -1,0 +1,11 @@
+Buatlah query untuk menampilkan seluruh data kelas beserta nama kode kuliah, nama kuliah dan nama dosennya. Kolom yang harus ditampilkan adalah sebagai berikut,
+Nama Kolom
+Keterangan
+Id_kelas
+Ambil atribut dari tabel kelas
+nomer_kelas
+kode_kuliah
+nama_kuliah
+Ambil atribut dari tabel kuliah
+nama_dosen
+Ambil atribut dari tabel dosen
