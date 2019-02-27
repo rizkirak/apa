@@ -1,0 +1,17 @@
+if(P.a>P.b){
+        P.n += P.a/P.b;
+        P.a = P.a%P.b;
+    }
+    else if (P.a == P.b){
+        P.n++;
+        P.a = 0;
+        P.b = 1;
+    }
+    if (P.a != 0){
+        int gcd = GCD(P.a,P.b);
+        P.a /= gcd;
+        P.b /= gcd;
+    }
+    else{
+        P.b = 1;
+    }
